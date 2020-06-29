@@ -17,6 +17,6 @@ const App = () => {
             <Footer />
         </Container>
     )
-}
+}  
 
 export default App
