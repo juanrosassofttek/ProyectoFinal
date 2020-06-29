@@ -1,0 +1,11 @@
+main > .container {
+    padding: 60px 15px 0;
+    
+  }
+
+  .footer {
+    background-color: rgb(109,89,115);
+  }
+  .emailfooter {
+      font-size: 12px;
+  }
